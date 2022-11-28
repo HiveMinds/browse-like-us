@@ -9,12 +9,12 @@ The Instagram of browsing experiences, except you get what you see.
 This is a social network that allows you to share and adopt your browsing
 experience based on how your peers experience the web.
 
-<img src=[drake_gif]
+<img src=https://github.com/HiveMinds/browse-like-us/blob/main/meme/output.gif
 width="1000" height="1000" />
 
 ## Why
 
-@gorhill made a wonderful application called uBlock Origin. It allows you to
+Raymond Hill made a wonderful application called [uBlock Origin](https://github.com/gorhill/uBlock). It allows you to
 filter (web) content. There are hundreds if not thousands of lists that filter
 web content to make sites look nice and simple. The creator of the
 browser-extension even declines funding and suggest you donate to those who
@@ -38,8 +38,9 @@ filter lists created by the uBlock users. The one you like sticks, and you can
 add your own mods on top of that. These mods then become available to others.
 
 Some kind of rating/usage system should be used to filter the good mods from
-the bad mods. A dial could be used to determine what and how strict you want
-to slim down the browsing experience.
+the bad mods. A dial could be used to determine what you want to filter 
+(content vs cosmetics), and how strict you want to minimalise your browsing 
+experience.
 
 ## What Stage II
 
@@ -55,6 +56,17 @@ Large adoption creates a dataset with:
 The network could be decentralised to automatically pay out the people cleaning
 up websites, based on your usage. (Like spotify except without me/this as
 middle-person.) (Like brave tokens without the 30% cut.)
+
+## Contribute
+1. Have a look at the [roadmap](https://github.com/HiveMinds/browse-like-us/milestones)
+and [issues](https://github.com/HiveMinds/browse-like-us/issues)
+1. Pick an issue you like
+2. Build it :rocket:
+3. Send me a pull request :)
+ 
+Most issues can be solved in parallel. Currently I focus on graduating, and
+I am not actively generating solutions/work on this, I am willing to perform 
+maintenance, quality control and CI :)
 
 <!-- Un-wrapped URL's (Badges and Hyperlinks) -->
 
