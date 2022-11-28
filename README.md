@@ -34,7 +34,7 @@ this repository exists.
 
 ## What Stage I
 
-If you visit a site, you can quickly scroll through the list of Ublock Origin
+If you visit a site, you can quickly scroll through the list of UBlock Origin
 filter lists created by the uBlock users. The one you like sticks, and you can
 add your own mods on top of that. These mods then become available to others.
 
