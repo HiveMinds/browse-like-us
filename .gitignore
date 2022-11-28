@@ -3,6 +3,8 @@
 chrome_driver/*
 firefox_driver/*
 
+meme/output.gif
+
 demo/*
 latex/Images/graphs/*
 Images/*
