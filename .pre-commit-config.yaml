@@ -78,7 +78,7 @@ repos:
    rev: v4.2.0
    hooks:
     # Check user did not add large files.
-    - id: check-added-large-files
+    #- id: check-added-large-files
     # Check if `.py` files are written in valid Python syntax.
     - id: check-ast
     # Require literal syntax when initializing empty or zero Python builtin types.

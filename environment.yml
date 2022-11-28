@@ -74,6 +74,8 @@ dependencies:
     - prettier
     # Tag files using Python.
     - pytaggit
+    # Control browser
+    - Selenium
     # Identify and remove dead code.
     - vulture
     #- pipreqs
