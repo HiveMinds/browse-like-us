@@ -47,8 +47,9 @@ experience.
 Large adoption creates a dataset with:
 
 - pairs of: \[HTML source code, uBlock origin element filter list\] as input
-- filter adoption/usage as labels/scores of the filter list
-  I think sufficient adoption may allow one to automate filtering the adds and
+- filter adoption/usage as labels/scores of the filter (list(s))
+
+I think sufficient adoption (1M+ curated websites) may allow one to automate filtering the adds and
   nonsense using machine learning techniques.
 
 ## What Stage III
