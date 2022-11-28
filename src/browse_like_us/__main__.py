@@ -15,7 +15,7 @@ bottom_name = "bottom.png"
 top_name = "top.png"
 overlay_name = "overlay.png"
 output_gif_name = "output.gif"
-get_screenshots = False
+get_screenshots = True
 
 accepted_sites: dict = {
     "stack_no_login": (False, "https://stackoverflow.com/questions"),
