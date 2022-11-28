@@ -12,8 +12,6 @@ channels:
 dependencies:
 # Specify specific python version.
   - python=3.10
-  # Generate plots.
-  - matplotlib
 # Pre-commit packages for code quality:
 # Run python tests.
   - pytest-cov
@@ -39,9 +37,6 @@ dependencies:
   - mdformat
 # Auto check static typing.
   - mypy
-  # Run graph software quickly.
-  # Lava depends on networkx 2.8.7
-  - networkx==2.8.7
 # Auto generate documentation.
   - pdoc3
 # Another static type checker for python like mypy.
@@ -66,10 +61,10 @@ dependencies:
 # pip packages:
   - pip
   - pip:
+    # Install Ubuntu browser controller
+    - browsercontroller
     # Create gif of SNN behaviour.
     - imageio
-    # Support parsing Json files.
-    - jsons
     # Seems to be an autoformatter like black, but installed using npm instead of pip.
     - prettier
     # Tag files using Python.
